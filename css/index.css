@@ -1,0 +1,27 @@
+*{
+  /* background-color: rgb(191, 203, 203); */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding:0;
+  margin:0;
+}
+.head-container, .nav-container{
+  background-color: #000000;
+  display: flex;
+  align-items: flex-start;
+  color:white;
+  
+
+  
+}
+
+.nav-container a,.nav-container:visited{
+  text-decoration: none;
+  color :white;
+
+}
+header{
+  background-color: #971414;
+}
+.header-box{
+  padding:2px 20px;
+}
